@@ -1,1 +1,1 @@
-# Database Project
+# Random Number Guessing Game
