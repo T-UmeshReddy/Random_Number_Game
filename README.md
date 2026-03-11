@@ -75,7 +75,7 @@ Guess-The-Number-Game
 
 1. Clone the repository
 
-git clone https://github.com/your-username/guess-number-game.git
+git clone https://github.com/T-UmeshReddy/Random_Number_Game.git
 
 
 
